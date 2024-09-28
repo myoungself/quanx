@@ -1,7 +1,7 @@
 # 参考来源
 墨鱼：https://github.com/ddgksf2013
 
-重要声明：版权归墨鱼所有，修改只供个人使用
+重要声明：**版权归墨鱼所有，修改只供个人使用**
 
 
 # 修改目标
@@ -15,7 +15,7 @@
 
 1. [policy] 增加一个 crypto 的策略。
 
-> static=Crypto, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, proxy, img-url=https://raw.githubusercontent.com/myoungself/quanx/dev/icon/crypto.png
+> static=Crypto, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, proxy, img-url=https://raw.githubusercontent.com/myoungself/quanx/dev/icon/Bitcloud.png
 
 
 2. [filter_remote] 修改两个地方：
@@ -26,6 +26,6 @@
 - 增加一个crypto的规则
 > https://raw.githubusercontent.com/myoungself/quanx/dev/rules/CryptoHK.list, tag=Crypto, force-policy=Crypto, update-interval=172800, opt-parser=true, enabled=true
 
-- 增加一个强制使用香港节点的 crypto 规则
+- 增加一个强制使用香港节点的 crypto 规则，跟个人身份相关
 > https://raw.githubusercontent.com/myoungself/quanx/dev/rules/CryptoHK.list, tag=CryptoHK, force-policy=香港节点, update-interval=172800, opt-parser=true, enabled=true
 
