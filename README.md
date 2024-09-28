@@ -1,7 +1,14 @@
 # 参考来源
 墨鱼：https://github.com/ddgksf2013
 
-【版权归墨鱼所有，修改只供个人使用】
+重要声明：版权归墨鱼所有，修改只供个人使用
+
+
+# 修改目标
+把 crypto 相关的策略都单独提出来。
+- 一个总的 crypto 规则；
+- 一个必须使用香港节点的规则；（主要是我自身需要）
+- 一个必须使用台湾节点的规则；
 
 
 # 修改地方
@@ -18,3 +25,7 @@
 
 - 增加一个crypto的规则
 > https://raw.githubusercontent.com/myoungself/quanx/dev/rules/CryptoHK.list, tag=Crypto, force-policy=Crypto, update-interval=172800, opt-parser=true, enabled=true
+
+- 增加一个强制使用香港节点的 crypto 规则
+> https://raw.githubusercontent.com/myoungself/quanx/dev/rules/CryptoHK.list, tag=CryptoHK, force-policy=香港节点, update-interval=172800, opt-parser=true, enabled=true
+

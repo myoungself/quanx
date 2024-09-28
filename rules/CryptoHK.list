@@ -1,42 +1,6 @@
 # NAME: CryptoHK
 # Special Crypto HK
-HOST-SUFFIX,hashkey.com,CryptoHK
-HOST-SUFFIX,coinbase.com,CryptoHK
-HOST-KEYWORD,hashkey,CryptoHK
-HOST-KEYWORD,coinbase,CryptoHK
-
-# ---(Crypto)---
-HOST-SUFFIX,bitcointalk.org
-HOST-SUFFIX,bitfinex.com
-HOST-SUFFIX,bitflyer.com
-HOST-SUFFIX,bitget.com
-HOST-SUFFIX,bithumb.com
-HOST-SUFFIX,bitstamp.net
-HOST-SUFFIX,coingecko.com
-HOST-SUFFIX,coinmarketcap.com
-HOST-SUFFIX,crypto.com
-HOST-SUFFIX,dydx.exchange
-HOST-SUFFIX,etherscan.io
-HOST-SUFFIX,gate.io
-HOST-SUFFIX,gemini.com
-HOST-SUFFIX,kraken.com
-HOST-SUFFIX,kucoin.com
-HOST-SUFFIX,mexc.com
-HOST-SUFFIX,probit.com
-HOST-SUFFIX,uniswap.org
-HOST-SUFFIX,upbit.com
-# > Binane
-HOST-SUFFIX,binance.com
-HOST-SUFFIX,binance.info
-HOST-SUFFIX,bnbstatic.com
-HOST-SUFFIX,bntrace.com
-HOST-SUFFIX,yingwangtech.cloud
-# > Bybit
-HOST-SUFFIX,byabcde.com
-HOST-SUFFIX,bybdc6.com
-HOST-SUFFIX,bybit.com
-HOST-SUFFIX,bybitglobal.com
-HOST-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
-# > OKX
-HOST-SUFFIX,okx.com
-HOST-SUFFIX,okx.com.cdn.cloudflare.net
+HOST-SUFFIX,hashkey.com
+HOST-SUFFIX,coinbase.com
+HOST-KEYWORD,hashkey
+HOST-KEYWORD,coinbase
