@@ -19,6 +19,7 @@ HOST-SUFFIX,probit.com
 HOST-SUFFIX,uniswap.org
 HOST-SUFFIX,upbit.com
 # > Binane
+HOST-KEYWORD,binance
 HOST-SUFFIX,binance.com
 HOST-SUFFIX,binance.info
 HOST-SUFFIX,bnbstatic.com
