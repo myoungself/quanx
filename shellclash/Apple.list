@@ -1850,10 +1850,10 @@ USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
-USER-AGENTNews*
+USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
-USER-AGENTTV*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 IP-CIDR,139.178.128.0/18
 IP-CIDR,144.178.0.0/19
